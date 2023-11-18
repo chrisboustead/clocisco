@@ -7,6 +7,7 @@
     "start": "npm run dev",
     "dev": "tsc --watch",
     "build": "tsc",
+    "publish": "zip -T -r ./publish/clocisco.zip . -x \"node_modules/**\" \".git/**\" \"publish/**\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
