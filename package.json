@@ -1,6 +1,6 @@
 {
   "name": "clocisco",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A tiny browser extension which closes Cisco Secure Client browser window notifications after 10 seconds.",
   "main": "index.js",
   "scripts": {
