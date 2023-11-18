@@ -19,7 +19,6 @@
   "offline_enabled": true,
     "permissions": [
         "tabs",
-        "storage",
         "scripting"
     ],
     "action": {
